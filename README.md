@@ -1,6 +1,7 @@
 # Agoda Booking Analysis: A Data-Driven Case Study
 
-![Project Thumbnail](thumbnail.png)
+<img width="681" height="677" alt="image" src="https://github.com/user-attachments/assets/f4c3fcf1-3b8a-453e-90b7-f434723a36d6" />
+
 
 ## 📖 Overview
 
